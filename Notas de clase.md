@@ -3,10 +3,10 @@ Un compilador en la entrada revisa si tiene errores o marca un error en base a u
 
 Reglas gramaticales:
 
-* Reglas lexicas
+* Reglas lexicas(Se escriben Mayusculas)
   * Correcta formacion de palabras(Tokens)
-* Reglas Sintacticas
-  * Correcta formacion de frases
+* Reglas Sintacticas(Se escriben Minusculas)
+  * Correcta formacion de frases (Revisa el orden en la que se forman los tokens como se dice en el compilador)
     
  ## Ejemplo de uso de reglas gramaticales
 ```
@@ -23,3 +23,4 @@ ACCION: ('barre' |'limpia' |'lava' |'resuelve' |'plancha' |'cocina' |'seca' |'tr
 WS:(''|'\n'|'\r'|'\t')+ { $channel=HIDDEN; } ;
 ```
 Si no esta correcto algo marca un error, de lo contrario no marca ningun error
+
