@@ -49,7 +49,7 @@ public class Test {
 
 <img width="971" height="187" alt="image" src="https://github.com/user-attachments/assets/7f0f45ee-064e-4887-9439-73e95c6d7924" />
 
-Aqui genere un error 
+Aqui genere debido a que la accion de "coje" es algo que no declare en el codigo de ordenes.g 
 
 
 
