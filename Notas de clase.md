@@ -98,4 +98,15 @@ amigo barre;
 
 Basado en el arbol de derivacion las expresiones si corresponden a la gramatica del codigo, lo circulado son simbolos terminalese que es en lo que debe terminar
 
+<img width="949" height="506" alt="image" src="https://github.com/user-attachments/assets/8dbe4a5b-7674-41f4-a541-3fc9c740f8fd" />
+
+Se crear el arbol de derivacion desde la pagina de ANTLR LAB
+
+<img width="1323" height="555" alt="image" src="https://github.com/user-attachments/assets/82dea231-09c7-4934-b5e5-1d01afae1dda" />
+
+Se pueden meter dos ordenes o mas ordenes y lo debe generar bien el arbol de dervicion
+
+<img width="1077" height="647" alt="image" src="https://github.com/user-attachments/assets/97ff7885-023a-414a-ab9e-060e1e3ea7d3" />
+
+Se le puede poner diferentes cosas como de quien es la orden que hace y mas cosas
 
