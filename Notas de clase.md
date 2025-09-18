@@ -110,3 +110,9 @@ Se pueden meter dos ordenes o mas ordenes y lo debe generar bien el arbol de der
 
 Se le puede poner diferentes cosas como de quien es la orden que hace y mas cosas
 
+## Tabla de Simbolos
+Una tabla de símbolos en un compilador es una estructura de datos que almacena información sobre los identificadores (como nombres de variables, funciones, objetos, etc.) utilizados en un programa fuente. Cada entrada en la tabla contiene el nombre del identificador y sus atributos (tipo, ámbito, ubicación de memoria), lo que permite al compilador rastrear y gestionar estos elementos durante la compilación y la vinculación para generar código correcto y detectar errores. 
+
+Se creara un tipo diccionario un tipo de tabla en donde se declararan todos los tipos de símbolos que puedan haber 
+<img width="411" height="451" alt="image" src="https://github.com/user-attachments/assets/6bdb6706-f0cd-457a-a94e-e620c7d9d5b6" />
+
